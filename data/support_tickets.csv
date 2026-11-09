@@ -1,0 +1,41 @@
+id,date,customer,category,priority,status,resolution_hours
+T-1027,2026-10-02,Orbea Logistics,Billing,Low,Closed,34
+T-1031,2026-10-02,Tanager Foods,Login,Low,Open,
+T-1002,2026-10-03,Alder Media,Billing,Medium,Open,
+T-1005,2026-10-03,Vireo Bank,Billing,High,Open,
+T-1011,2026-10-05,Alder Media,Export,Medium,Open,
+T-1024,2026-10-07,Vireo Bank,Feature request,Medium,Open,
+T-1001,2026-10-09,Vireo Bank,Login,High,Closed,18
+T-1014,2026-10-09,Orbea Logistics,Login,Low,Open,
+T-1016,2026-10-09,Delmar Insurance,Export,Medium,Closed,35
+T-1003,2026-10-10,Orbea Logistics,Performance,High,Open,
+T-1028,2026-10-10,Norte Energia,Feature request,Low,Closed,30
+T-1006,2026-10-11,Pallas Retail,Login,Low,Closed,1
+T-1023,2026-10-11,Vireo Bank,Billing,Medium,Closed,43
+T-1040,2026-10-11,Norte Energia,Login,Medium,Closed,22
+T-1029,2026-10-13,Orbea Logistics,Export,Medium,Closed,7
+T-1007,2026-10-14,Tanager Foods,Billing,Medium,Closed,27
+T-1025,2026-10-14,Orbea Logistics,Performance,Medium,Closed,39
+T-1034,2026-10-14,Tanager Foods,Performance,Medium,Open,
+T-1021,2026-10-15,Vireo Bank,Export,Medium,Closed,11
+T-1010,2026-10-16,Vireo Bank,Billing,Medium,Closed,9
+T-1017,2026-10-16,Orbea Logistics,Billing,High,Closed,19
+T-1012,2026-10-17,Orbea Logistics,Export,Medium,Closed,31
+T-1032,2026-10-18,Kestrel Health,Login,High,Closed,37
+T-1039,2026-10-18,Orbea Logistics,Performance,High,Closed,34
+T-1020,2026-10-20,Kestrel Health,Billing,Low,Closed,7
+T-1026,2026-10-21,Orbea Logistics,Billing,Medium,Closed,30
+T-1036,2026-10-21,Pallas Retail,Billing,Low,Closed,23
+T-1037,2026-10-21,Kestrel Health,Export,Low,Closed,13
+T-1008,2026-10-23,Pallas Retail,Export,High,Closed,24
+T-1030,2026-10-24,Vireo Bank,Export,Medium,Closed,6
+T-1033,2026-10-24,Kestrel Health,Export,Medium,Closed,33
+T-1013,2026-10-25,Pallas Retail,Login,High,Open,
+T-1035,2026-10-25,Delmar Insurance,Feature request,Low,Closed,27
+T-1038,2026-10-25,Pallas Retail,Login,High,Open,
+T-1018,2026-10-28,Alder Media,Billing,Medium,Closed,16
+T-1004,2026-10-29,Kestrel Health,Billing,Low,Closed,18
+T-1019,2026-10-29,Tanager Foods,Billing,High,Closed,48
+T-1022,2026-10-29,Vireo Bank,Billing,Medium,Open,
+T-1009,2026-10-30,Delmar Insurance,Login,Medium,Open,
+T-1015,2026-10-30,Norte Energia,Export,Medium,Open,
